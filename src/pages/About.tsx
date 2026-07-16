@@ -74,7 +74,7 @@ const APPS: AppCard[] = [
     color: "linear-gradient(135deg, #FF0000 0%, #CC0000 100%)",
     glow: "rgba(255,0,0,0.2)",
     border: "rgba(255,0,0,0.3)",
-    url: "https://youtube.com/@crystallynncreates",
+    url: "https://youtube.com/@clc4321",
     badge: "SUBSCRIBE",
     external: true,
   },
@@ -268,7 +268,7 @@ export default function AboutPage() {
               Explore My World
             </a>
             <a
-              href="https://youtube.com/@crystallynncreates"
+              href="https://youtube.com/@clc4321"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-8 py-3.5 rounded-full font-bold text-sm transition-all hover:opacity-85"
@@ -376,7 +376,7 @@ export default function AboutPage() {
 
             <div className="flex gap-4 mt-8">
               <a
-                href="https://youtube.com/@crystallynncreates"
+                href="https://youtube.com/@clc4321"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-xl transition-all hover:opacity-80"
@@ -527,7 +527,7 @@ export default function AboutPage() {
               </p>
               <div className="flex items-center justify-center gap-4 flex-wrap">
                 <a
-                  href="https://youtube.com/@crystallynncreates"
+                  href="https://youtube.com/@clc4321"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 px-6 py-3 rounded-full font-bold text-sm transition-all hover:opacity-85"
@@ -567,7 +567,7 @@ export default function AboutPage() {
           </p>
           <div className="flex items-center gap-4">
             {[
-              { href: "https://youtube.com/@crystallynncreates", icon: Youtube, color: "#FF4444" },
+              { href: "https://youtube.com/@clc4321", icon: Youtube, color: "#FF4444" },
               { href: "https://instagram.com/crystallynncreates", icon: Instagram, color: "#E8A4A4" },
             ].map(({ href, icon: Icon, color }) => (
               <a key={href} href={href} target="_blank" rel="noopener noreferrer" className="transition-opacity hover:opacity-60">
