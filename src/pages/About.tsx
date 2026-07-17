@@ -46,7 +46,7 @@ const APPS: AppCard[] = [
     external: true,
   },
   {
-    name: "Kept by CLC Creates",
+    name: "Kept by Crystal Lynn Creates",
     tagline: "Your virtual home for Godly living & organization",
     icon: "🏡",
     color: "linear-gradient(135deg, #4A8C5C 0%, #7AB88A 100%)",
@@ -76,6 +76,17 @@ const APPS: AppCard[] = [
     border: "rgba(255,0,0,0.3)",
     url: "https://youtube.com/@clc4321",
     badge: "SUBSCRIBE",
+    external: true,
+  },
+  {
+    name: "Calendi",
+    tagline: "Smart multi-screen dashboard — your time, your way",
+    icon: "🗓️",
+    color: "linear-gradient(135deg, #8B5CF6 0%, #22D3EE 100%)",
+    glow: "rgba(139,92,246,0.25)",
+    border: "rgba(139,92,246,0.3)",
+    url: "https://calendi.vercel.app",
+    badge: "OPEN",
     external: true,
   },
 ];
