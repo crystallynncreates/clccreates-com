@@ -85,7 +85,7 @@ const APPS: AppCard[] = [
     color: "linear-gradient(135deg, #8B5CF6 0%, #22D3EE 100%)",
     glow: "rgba(139,92,246,0.25)",
     border: "rgba(139,92,246,0.3)",
-    url: "https://calendi.vercel.app",
+    url: "https://calendi-mk37.vercel.app",
     badge: "OPEN",
     external: true,
   },
