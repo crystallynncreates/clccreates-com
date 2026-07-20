@@ -41,7 +41,7 @@ const APPS: AppCard[] = [
     color: "linear-gradient(135deg, #00D485 0%, #4ade80 100%)",
     glow: "rgba(0,212,133,0.25)",
     border: "rgba(0,212,133,0.3)",
-    url: "https://stackblitz.com/github/crystallynncreates/clc-premiere-studios",
+    url: "https://clc-premiere-studios.vercel.app",
     badge: "OPEN APP",
     external: true,
   },
